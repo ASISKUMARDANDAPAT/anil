@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    width: 100vw;
+    height: 100vh;
+    background-color: brown;
+}
+.child1{
+    height: 70vh;
+    width: 100vw;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: row;
+}
+.child2{
+    height: 30vh;
+    width: 100vw;
+    background-color: black;
+}
